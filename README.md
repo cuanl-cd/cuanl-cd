@@ -4,6 +4,6 @@ I currently work as a Cloud Platform Engineer mainly working in the Azure space.
 
 # 📊 My Stats
 
-[![data-tangles github stats](https://github-readme-stats.vercel.app/api?username=cuanl-cd&show_icons=true&count_private=true&theme=radical&hide=stars)](https://github.com/cuanl-cd)
+[![data-tangles github stats](https://github-readme-stats-fast.vercel.app/api?username=cuanl-cd&show_icons=true&count_private=true&theme=synthwave&hide=stars)](https://github.com/cuanl-cd)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cuanl-cd&theme=dark&count_private=true&theme=radical)](https://github.com/cuanl-cd)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=cuanl-cd&theme=synthwave)](https://github.com/cuanl-cd)
